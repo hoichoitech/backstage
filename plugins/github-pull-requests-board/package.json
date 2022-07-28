@@ -45,7 +45,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.57",
     "@octokit/rest": "^18.12.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "react-use": "^17.2.4"
   },
   "devDependencies": {
