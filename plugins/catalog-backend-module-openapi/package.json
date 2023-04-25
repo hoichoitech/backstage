@@ -40,7 +40,7 @@
     "@backstage/integration": "^1.2.2-next.2",
     "@backstage/plugin-catalog-backend": "^1.2.1-next.2",
     "winston": "^3.2.1",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "@backstage/backend-test-utils": "^0.1.26-next.2",
